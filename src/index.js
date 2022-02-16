@@ -14,7 +14,6 @@ import reportWebVitals from './reportWebVitals';
 ); */
 
 const root = document.getElementById('root')
-
 observe((knightPosition) =>
   ReactDOM.render(
     <div>
